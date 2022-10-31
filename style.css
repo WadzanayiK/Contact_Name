@@ -1,0 +1,21 @@
+h1,p {
+    text-align: center;
+}
+.form_container{
+   color: aqua; 
+   width: 450px;
+   text-align: center;
+   margin: auto;
+}
+button{
+    color: goldenrod;
+}
+
+button:hover{
+    color: blue;
+    transform-style: unset;
+}
+
+body{
+    background-image:linear-gradient(to right,rgb(112, 168, 112), yellow);
+}
